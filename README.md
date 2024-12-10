@@ -37,8 +37,14 @@ RemoveGroup|<group_name>: Removes an empty group from the server.
 ## Example Usage
 
 To create a group: AddGroup|group1
+
 To join a group: JoinGroup|group1
+
 To send a message to a group: SendMessage|group1|Hello everyone!
+
 To send a file to a group: SendFile|group1|path/to/file.txt
+
 To leave a group: LeaveGroup|group1
+
 To remove a group (only if the group is empty): RemoveGroup|group1
+
